@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=shehabwaleedd&theme=panda&card_width=796&hide_current_streak=true)](https://git.io/streak-stats)
-![Shehab's GitHub stats](https://github-readme-stats.vercel.app/api?shehabwaleedd=anuraghazra&hide=contribs,prs)
+![Shehab's GitHub stats](https://github-readme-stats.vercel.app/api?username=shehabwaleedd&hide=contribs,prs)
 <!--
 **shehabwaleedd/shehabwaleedd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
