@@ -12,8 +12,10 @@ AboutMe {
   location: "Cairo, Egypt",
   interests: [
     "Web Development",
+    "Frontend Development",
     "UI/UX",
-    "Frontend",
+    "Webflow",
+    "Framer",
     "Graphic Design ( For Fun )",
   ],
   ig: "shehabwaleedd",
